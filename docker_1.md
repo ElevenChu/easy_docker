@@ -10,6 +10,8 @@
 3.启动慢
 
 ### 比较Docker与传统虚拟化
+![image](https://user-images.githubusercontent.com/57619422/133393584-086ab448-7c9d-45cc-8e7c-58cafeaba27e.png)
+
 
 
 ### Docker的架构图
