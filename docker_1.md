@@ -30,3 +30,13 @@ Images->镜像；Registry->仓库
 
 - 3.仓库
 ![image](https://user-images.githubusercontent.com/57619422/133227306-3684c6d6-e4d8-4a79-b094-8ea84e0c7351.png)
+
+
+## Docker镜像加载原理
+
+![image](https://user-images.githubusercontent.com/57619422/133535071-f19ffe49-d582-4c2e-aa6c-9828c6af311c.png)
+
+
+- 联合文件系统UnionFS
+![image](https://user-images.githubusercontent.com/57619422/133535538-d4a1bd93-374f-467a-a4f8-68fbd87ac875.png)
+
