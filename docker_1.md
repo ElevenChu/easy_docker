@@ -53,5 +53,26 @@ Images->镜像；Registry->仓库
 
 ### DockerFile
 
+什么是 Dockerfile？
+
+： Dockerfile 是一个用来构建镜像的文本文件，文本内容包含了一条条构建镜像所需的指令和说明。
+
+- 写容器卷的主流步骤
+- 
+![image](https://user-images.githubusercontent.com/57619422/133571504-b9c8f787-7cdf-4d12-ba36-39a9b6f7f5be.png)
+
+- 关系
+![image](https://user-images.githubusercontent.com/57619422/133573745-87d4d7be-838e-421c-8e08-2b51383cb65d.png)
+
+
+
+- ENTRYPOINT 和 CMD的区别
+
+:![image](https://user-images.githubusercontent.com/57619422/133579003-4644c007-9eca-431f-a0fa-78e1a597c70c.png )
+
+- 自定义一个镜像（例子centOS）\
+![image](https://user-images.githubusercontent.com/57619422/133585030-cac92666-5ac0-4508-b4f7-eab0ce1634cd.png)
+
+ 
 
 
