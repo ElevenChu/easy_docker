@@ -40,3 +40,18 @@ Images->镜像；Registry->仓库
 - 联合文件系统UnionFS
 ![image](https://user-images.githubusercontent.com/57619422/133535538-d4a1bd93-374f-467a-a4f8-68fbd87ac875.png)
 
+## Docker容器数据卷
+![image](https://user-images.githubusercontent.com/57619422/133538834-b3685fdc-dfbb-47f3-b663-4f8cab8f107d.png)
+
+数据卷类似于Redis中持久化的RDB和AOF文件
+
+作用：
+
+ 1.容器持久化
+      
+ 2.容器间继承+共享数据
+
+### DockerFile
+
+
+
