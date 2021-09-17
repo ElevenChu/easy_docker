@@ -75,6 +75,12 @@ Images->镜像；Registry->仓库
 
 
 常见命令
+
 ![image](https://user-images.githubusercontent.com/57619422/133785095-ffe59f50-61d8-42be-ab29-ab46ac94f3e7.png)
+
+安装Tomcat
+
+![image](https://user-images.githubusercontent.com/57619422/133786761-57d18401-e15b-4cc2-8ffc-dbd845a0bdc5.png)
+
 
 
