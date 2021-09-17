@@ -83,4 +83,7 @@ Images->镜像；Registry->仓库
 ![image](https://user-images.githubusercontent.com/57619422/133786761-57d18401-e15b-4cc2-8ffc-dbd845a0bdc5.png)
 
 
+命令说明
+
+![image](https://user-images.githubusercontent.com/57619422/133787833-998f71ce-1fab-4197-9d02-b6773b87edec.png)
 
