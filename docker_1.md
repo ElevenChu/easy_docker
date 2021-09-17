@@ -73,6 +73,8 @@ Images->镜像；Registry->仓库
 - 自定义一个镜像（例子centOS）\
 ![image](https://user-images.githubusercontent.com/57619422/133585030-cac92666-5ac0-4508-b4f7-eab0ce1634cd.png)
 
- 
+
+常见命令
+![image](https://user-images.githubusercontent.com/57619422/133785095-ffe59f50-61d8-42be-ab29-ab46ac94f3e7.png)
 
 
