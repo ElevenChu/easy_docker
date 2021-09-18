@@ -87,3 +87,7 @@ Images->镜像；Registry->仓库
 
 ![image](https://user-images.githubusercontent.com/57619422/133787833-998f71ce-1fab-4197-9d02-b6773b87edec.png)
 
+
+本地镜像发布到阿里云的流程
+
+![image](https://user-images.githubusercontent.com/57619422/133881561-b8448a27-9014-4952-8516-42cf5e83dd25.png)
